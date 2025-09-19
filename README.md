@@ -27,3 +27,22 @@ In this project, we built an ML pipeline to classify emails as **Spam** or **Not
 ---
 
 ## 📂 Project Structure
+📁 email-spam-detection
+├── 📄 spam_detection.ipynb # Main Jupyter notebook
+├── 📄 requirements.txt # Dependencies
+├── 📄 README.md # Project documentation
+└── 📂 data # Dataset (CSV file)
+
+
+---
+
+## ⚙️ Installation & Usage
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/your-username/email-spam-detection.git
+   cd email-spam-detection
+
+2. Install dependencies
+   pip install -r requirements.txt 
+4. Run notebook
+   jupyter notebook spam_detection.ipynb
